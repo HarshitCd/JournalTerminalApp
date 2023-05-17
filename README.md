@@ -30,3 +30,7 @@ To view the journal type `journal view` in the terminal.
 journal view
 ```
 This uses glow as the markdown viewer in terminal and fzf to select which journal to open.
+
+## Future Work
+- [ ] Be able to create and load mutiple templates.
+- [ ] Create a setup script to avoid manual setup.
